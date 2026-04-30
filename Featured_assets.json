@@ -40,7 +40,7 @@
       "name": "Playmode Change Manager",
       "url": "https://assetstore.unity.com/packages/slug/359568",
       "imageUrl": "https://assetstorev1-prd-cdn.unity3d.com/key-image/3753964c-7626-4e76-bb57-55ef1607833c.jpg",
-      "description": "Modern medical equipment and modular operation room assets."
+      "description": "Play Mode Delta is a Unity Editor productivity tool that captures changes made during Play Mode and lets developers safely review, apply, discard, or recover those changes after exiting Play Mode."
     }
   ]
 }

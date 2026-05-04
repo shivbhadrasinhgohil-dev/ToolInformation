@@ -5,49 +5,49 @@
       "url": "https://assetstore.unity.com/packages/slug/355774",
       "imageUrl": "https://assetstorev1-prd-cdn.unity3d.com/key-image/9dbc7fc2-29cb-4cd0-931e-8a92afd70bb7.jpg",
       "description": "A comprehensive UI kit for 2D mobile games.",
-      "folderpath": "2D Game UI Kit"
+      "folderPath": "2D Game UI Kit"
     },
     {
       "name": "Spanish City Pack",
       "url": "https://assetstore.unity.com/packages/slug/352994",
       "imageUrl": "https://assetstorev1-prd-cdn.unity3d.com/key-image/893d9eff-9d8c-4d5f-a9f0-47a516adfd8a.jpg",
       "description": "A detailed Spanish city environment pack.",
-      "folderpath": "SpanishCityPack"
+      "folderPath": "SpanishCityPack"
     },
     {
       "name": "Easy B2U - Blender to Unity",
       "url": "https://assetstore.unity.com/packages/slug/307342",
       "imageUrl": "https://assetstorev1-prd-cdn.unity3d.com/key-image/bb21f780-9c31-482f-84ba-3f5f8f6d6420.jpg",
       "description": "The fastest way to import and sync Blender files in Unity.",
-      "folderpath": "EasyB2UBlendertoUnity"
+      "folderPath": "EasyB2UBlendertoUnity"
     },
     {
       "name": "Medieval Stylized Weapons",
       "url": "https://assetstore.unity.com/packages/slug/222037",
       "imageUrl": "https://assetstorev1-prd-cdn.unity3d.com/key-image/fe4fb44a-0ac4-4a03-9bb0-28282cddf902.jpg",
       "description": "AAA quality stylized weapons for medieval fantasy games.",
-      "folderpath": "MedievalStylizedWeapons"
+      "folderPath": "MedievalStylizedWeapons"
     },
     {
       "name": "Medieval Bar Interior Kit",
       "url": "https://assetstore.unity.com/packages/slug/216221",
       "imageUrl": "https://assetstorev1-prd-cdn.unity3d.com/key-image/5c7ba0df-b851-4389-9ceb-86f13cb58c93.jpg",
       "description": "Modular props and interior pieces for tavern environments.",
-      "folderpath": "MedievalBarInteriorKit"
+      "folderPath": "MedievalBarInteriorKit"
     },
     {
       "name": "Operation Theatre Room Pack",
       "url": "https://assetstore.unity.com/packages/slug/359568",
       "imageUrl": "https://assetstorev1-prd-cdn.unity3d.com/key-image/3753964c-7626-4e76-bb57-55ef1607833c.jpg",
       "description": "Modern medical equipment and modular operation room assets.",
-      "folderpath": "OperationTheatreRoomPack"
+      "folderPath": "OperationTheatreRoomPack"
     },
     {
       "name": "Playmode Change Manager",
       "url": "https://assetstore.unity.com/packages/slug/359568",
       "imageUrl": "https://assetstorev1-prd-cdn.unity3d.com/key-image/3753964c-7626-4e76-bb57-55ef1607833c.jpg",
       "description": "Play Mode Delta is a Unity Editor productivity tool that captures changes made during Play Mode and lets developers safely review, apply, discard, or recover those changes after exiting Play Mode.",
-      "folderpath": "PlaymodeChangeManagerTool"
+      "folderPath": "PlaymodeChangeManagerTool"
     }
   ]
 }
